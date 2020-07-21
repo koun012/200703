@@ -42,6 +42,8 @@ header:hover {
 
 header.Akali {
   border-color : #35772c;
+  top : -100%;
+  position: relative;
 }
 
 header.shen{
